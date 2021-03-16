@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ralph-deng
 - 👀 I’m interested in creating something
 - 🌱 I’m currently (re)learning full-stack development like react.js and node.js 
-- 💞️ I’m looking to remote related job
+- 💞️ I’m looking for remote development jobs
 - 📫 You can contact me at ralph.deng [at] dianxin.one
 
 <!---
